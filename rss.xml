@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Kentucky Horseshoeing School]]></title>
         <description><![CDATA[Kentucky Horseshoeing School]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kentuckyhorseshoeingschool/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 19:35:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Apr 2016 19:35:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kentuckyhorseshoeingschool/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://i.ytimg.com/s_vi/9c7MsfKwf4M/mqdefault.jpg?sqp=CLTMqrgF&rs=AOn4CLC6yeYUArnQtXobtMhrxRxuM9qMyA">]]></description>
+            <link>https://www.youtube.com/user/kentuckyhorseshoeing/videos</link>
+            <guid isPermaLink="false">a1f67d7f-8691-4555-af9f-bd85cdbf4fee</guid>
+            <pubDate>Sun, 10 Apr 2016 19:30:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://i.ytimg.com/vi/evrtOvdyNtw/mqdefault.jpg">]]></description>
