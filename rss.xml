@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[kentuckyhorseshoeingschool]]></title>
         <description><![CDATA[kentuckyhorseshoeingschool]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kentuckyhorseshoeingschool/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 19:19:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Apr 2016 19:27:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kentuckyhorseshoeingschool/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Why choose Kentucky Horseshoeing School?  See what our former graduates have to say.</p>]]></description>
-            <link>undefined92676042-9448-4d5a-9f9c-372a07fba99a/index.html</link>
+            <link>https://thegrid.ai/kentuckyhorseshoeingschool/92676042-9448-4d5a-9f9c-372a07fba99a/index.html</link>
             <guid isPermaLink="false">92676042-9448-4d5a-9f9c-372a07fba99a</guid>
-            <pubDate>Sun, 10 Apr 2016 19:18:49 GMT</pubDate>
+            <pubDate>Sun, 10 Apr 2016 19:27:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
