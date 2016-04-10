@@ -1,4 +1,4 @@
-name: kentuckyhorseshoeingschool
+name: Kentucky Horseshoeing School
 favicon: null
 layout_spectrum: 0.4233361145015806
 typography_spectrum: 0.83682
@@ -18,10 +18,10 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#f60300'
-    - '#8b7d7a'
-    - '#b3b0b0'
-    - '#e05656'
+    - '#000000'
+    - '#ff99ae'
+    - '#424242'
+    - '#ff0204'
   brandStrength: 0.5
   lightness: 0.9291876000352204
   saturation: 0.2632991271093488
